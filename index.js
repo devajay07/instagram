@@ -33,8 +33,7 @@ const handleFormSubmit = (req, res) => {
       return;
     }
     console.log("Data stored in database");
-    res.redirect("/");
-    // res.redirect("https://www.instagram.com/palwal_club/");
+    res.redirect("https://www.instagram.com/palwal_club/");
   });
 };
 
