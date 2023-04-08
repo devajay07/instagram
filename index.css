@@ -168,7 +168,7 @@ input[type="submit"] {
     }
 
     .brand {
-        font-size: 20rem;
+        font-size: 3rem;
     }
 
     .lang {
@@ -181,7 +181,9 @@ input[type="submit"] {
     }
 
     input[type="submit"] {
-        margin-top: 10px;
+        margin-top: 25px;
+            font-size: 1rem;
+            padding: 25px 30px;
     }
 }
 
